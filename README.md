@@ -1,6 +1,6 @@
 # Masterarbeit "Anwendung von Data-Mining-Technologien zu statistischen Auswertungen und Vorhersagen im Fußball"
 
-Mit diesem Github-Projekt veröffentliche ich meine Masterarbeit zum Thema Data Mining im Fußball.
+Mit diesem Github-Projekt veröffentliche ich meine Masterarbeit zum Thema Data Mining im Fußball, da es schade wäre, wenn diese nur auf meiner Festplatte verstauben würde.
 
 In dieser Arbeit habe ich - neben einer grundsätzlichen Darstellung, inwiefern Data Mining im Fußball verwendet werden kann - versucht, die Ergebnisse von Fußballspielen anhand von historischen Daten vorherzusagen. Hierbei wurden die folgenden 4 Algorithmen verwendet:
 - Entscheidungsbäume
