@@ -9,7 +9,7 @@ In dieser Arbeit habe ich - neben einer grundsätzlichen Darstellung, inwiefern 
 - Logistic Regression
 
 Folgende Dateien befinden sich im Projekt:
-- In [Masterarbeit.pdf](Masterarbeit.pdf) befindet sich die finale Masterarbeit als PDF-File.
-- In [BUNDESLIGA_ExPORT_Spieltag_16.xls](BUNDESLIGA_ExPORT_Spieltag_16.xls) befindet sich die finale Datenbasis (Stand Hinrunde 16/17 bis einschl. 17. Spieltag).
+- In [Masterarbeit.pdf](https://github.com/brauchle/Masterarbeit-Data-Mining-Football/raw/master/Masterarbeit.pdf) befindet sich die finale Masterarbeit als PDF-File.
+- In [BUNDESLIGA_ExPORT_Spieltag_16.xls](https://github.com/brauchle/Masterarbeit-Data-Mining-Football/raw/master/BUNDESLIGA_ExPORT_Spieltag_16.xls) befindet sich die finale Datenbasis (Stand Hinrunde 16/17 bis einschl. 17. Spieltag).
 - Im Ordner [2_ExcelFiles](2_ExcelFiles) befinden sich sämtliche in der Masterarbeit zur Analyse der Datenbestandes verwendeten Excel-Files (hauptsächliche berechnete Korrelationen).
 - Im Ordner [3_Rapidminer_Processes](3_Rapidminer_Processes) befinden sich die erzeugten RapidMiner-Projekte inkl. Screenshots.
